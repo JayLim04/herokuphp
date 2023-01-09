@@ -1,0 +1,14 @@
+{
+	"name": "vendor_name/heroku",
+	"description": "description",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+	  {
+		"name": "Jayden Lim",
+		"email": "21033869@rp.edu.sg"
+	  }
+	],
+	"require": {
+	}
+  }
